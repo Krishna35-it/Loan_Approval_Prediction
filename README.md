@@ -1,13 +1,13 @@
 # Loan_Approval_Prediction
 "A Streamlit web app that predicts loan approval using Logistic Regression. Built with Python, scikit-learn, and deployed with Streamlit"
 
-# ** MODELS TRAINED **
+# Models Trained
 1) Logistic Regression
 2) Decision Tree Classifier
 3) Random Forest Classifier
 4) KNeighbors Classifier
 
-# ** Steps Followed **
+# Steps Followed
 1) Data Pre-Processing
 2) EDA
 3) Feature Engineering
